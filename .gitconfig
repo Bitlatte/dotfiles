@@ -1,0 +1,7 @@
+[user]
+	name = Coby McKinney
+	email = cobymckinney2025@gmail.com
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
